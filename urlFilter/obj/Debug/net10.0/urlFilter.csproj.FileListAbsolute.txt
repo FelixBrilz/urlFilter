@@ -1,0 +1,14 @@
+C:\Users\mrkae\OneDrive\Desktop\urlFilter\urlFilter\bin\Debug\net10.0\urlFilter.exe
+C:\Users\mrkae\OneDrive\Desktop\urlFilter\urlFilter\bin\Debug\net10.0\urlFilter.deps.json
+C:\Users\mrkae\OneDrive\Desktop\urlFilter\urlFilter\bin\Debug\net10.0\urlFilter.runtimeconfig.json
+C:\Users\mrkae\OneDrive\Desktop\urlFilter\urlFilter\bin\Debug\net10.0\urlFilter.dll
+C:\Users\mrkae\OneDrive\Desktop\urlFilter\urlFilter\bin\Debug\net10.0\urlFilter.pdb
+C:\Users\mrkae\OneDrive\Desktop\urlFilter\urlFilter\obj\Debug\net10.0\urlFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkae\OneDrive\Desktop\urlFilter\urlFilter\obj\Debug\net10.0\urlFilter.AssemblyInfoInputs.cache
+C:\Users\mrkae\OneDrive\Desktop\urlFilter\urlFilter\obj\Debug\net10.0\urlFilter.AssemblyInfo.cs
+C:\Users\mrkae\OneDrive\Desktop\urlFilter\urlFilter\obj\Debug\net10.0\urlFilter.csproj.CoreCompileInputs.cache
+C:\Users\mrkae\OneDrive\Desktop\urlFilter\urlFilter\obj\Debug\net10.0\urlFilter.dll
+C:\Users\mrkae\OneDrive\Desktop\urlFilter\urlFilter\obj\Debug\net10.0\refint\urlFilter.dll
+C:\Users\mrkae\OneDrive\Desktop\urlFilter\urlFilter\obj\Debug\net10.0\urlFilter.pdb
+C:\Users\mrkae\OneDrive\Desktop\urlFilter\urlFilter\obj\Debug\net10.0\urlFilter.genruntimeconfig.cache
+C:\Users\mrkae\OneDrive\Desktop\urlFilter\urlFilter\obj\Debug\net10.0\ref\urlFilter.dll
